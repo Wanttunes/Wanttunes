@@ -1,53 +1,67 @@
-<div align="center" >
-  <img width="100%" alt="Bem-vindo/a ao meu perfil!" src="https://github.com/wAngeloow/wAngeloow/blob/main/img/header2.png">
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Willian;Eu tenho 19 anos;E+sou+brasileiro.;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8000FF" alt="Letreiro animado">
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-<table align="right">
- <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.md"><img src="[./img/br_flag.png](https://github.com/wAngeloow/wAngeloow/blob/main/img/br_flag.png)" alt="Bandeira do Brasil" width="17px"> Português</a></td></tr>
- <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.english.md"><img src="[./img/us_flag.png](https://github.com/wAngeloow/wAngeloow/blob/main/img/us_flag.png)" alt="Bandeira dos EUA" width="17px"> English</a></td></tr>
-</table>
-<br>
-<br>
-<br>
-<h2 align="center">Sobre mim</h2>
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-###
-
-- 📚 Atualmente estou estudando independentemente.
-- 💼 Também trabalho em projetos pessoais para meu portifólio.
-- 📧 Entre em contato: williana.b333@gmail.com
-
-<h2 align="center">Estatísticas</h2>
-
-###
+<br/>
 
 <div align="center">
+ 
+ 🔭 I’m currently working on **a personal-projects**
+ 
+ 🌱 I’m currently learning **React, TypeScript**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanttunes&hide_progress=false&theme=radical&hide_border=true)
+💬 Ask me about **Node.js, JavaScript... or anything [here](https://github.com/Wanttunes/Wanttunes/issues)**
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wanttunes&theme=radical" width=750  alt="Gráfico de estatísticas"/>
+⚡ Fun fact **My english is very bad**
 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:williana.b333@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/wanttunes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript" /><br>
+</div>
+
+<br/>
+<hr/>
 
 <div align="center">
-<h2 align="center">Me encontre</h2>
-
-###
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/Wanttunes/output/github-contribution-grid-snake.svg" />
   
-[![Logo do LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-antunes-b72b14240/)
-[![Logo do Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Wanttunes)
-[![Logo do Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williana.b333@gmail.com)
+  <br/><br/><br/>
 </div>
 
-<div align="center">
-  <img alt="Obrigada pela visita!" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%238000FF&size=24&center=true&vCenter=true&width=300&lines=Obrigado+pela+visita!" >
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Wanttunes&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Wanttunes&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Wanttunes&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<div align="center" >
-  <img alt="Imagem do footer" width="100%" src="https://github.com/wAngeloow/wAngeloow/blob/main/img/footer.png">
-</div>
+<br/><br/>
+
+<hr/>
+
+<br/>
